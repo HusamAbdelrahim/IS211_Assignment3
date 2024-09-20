@@ -1,7 +1,7 @@
 # IS211_Assignment3
 IS211_Assignment3
 
-Author: Husam 
+Author: Husam Abdlerahim
 
 # How to run 
 
